@@ -1,0 +1,61 @@
+modLoader="javafml"
+loaderVersion="[43,)"
+license="Public Domain"
+
+[[mods]]
+modId="busverifmod"
+version="1"
+displayName="BusVerifMod"
+credits="This mod verif if you have all mods on your Minecraft"
+displayURL="https://github.com/BlocBlocTheBloc0/MinecraftBus"
+authors="BlocBlocTheBloc"
+description='''
+The secure mod of the project
+'''
+
+[[dependencies.busverifmod]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.19.2]"
+    ordering="NONE"
+    side="BOTH"
+
+
+[[dependencies.busverifmod]]
+    modId="busutilities"
+    mandatory=true
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.busverifmod]]
+    modId="theoneprobe"
+    mandatory=true
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.busverifmod]]
+    modId="flywheel"
+    mandatory=true
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.busverifmod]]
+    modId="create"
+    mandatory=true
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.busverifmod]]
+    modId="bussounds"
+    mandatory=true
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.busverifmod]]
+    modId="jei"
+    mandatory=true
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
+
+
