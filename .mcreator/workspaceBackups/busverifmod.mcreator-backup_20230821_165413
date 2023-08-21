@@ -1,0 +1,39 @@
+{
+  "mod_elements": [],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {}
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "busverifmod",
+    "modName": "BusVerifMod",
+    "version": "1",
+    "description": "The secure mod of the project",
+    "author": "BlocBlocTheBloc",
+    "websiteURL": "https://github.com/BlocBlocTheBloc0/MinecraftBus",
+    "license": "Public Domain",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [
+      "busutilities",
+      "theoneprobe",
+      "flywheel",
+      "create",
+      "bussounds",
+      "jei"
+    ],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.19.2",
+    "credits": "This mod verif if you have all mods on your Minecraft",
+    "modElementsPackage": "fr.blocblocthebloc.busverifmod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202300110610
+}
