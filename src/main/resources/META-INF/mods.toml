@@ -1,10 +1,10 @@
 modLoader="javafml"
-loaderVersion="[45,)"
+loaderVersion="[47,)"
 license="All Rights Reserved"
 
 [[mods]]
 modId="busverif"
-version="1"
+version="1.1"
 displayName="BusVerif"
 credits="This mod verif if you have all mods on your Minecraft"
 displayURL="https://github.com/MC-Bus/MCB-BusVerif"
@@ -14,7 +14,7 @@ description="The secure mod of the project"
 [[dependencies.busverif]]
     modId="minecraft"
     mandatory=true
-    versionRange="[1.19.4]"
+    versionRange="[1.20.1]"
     ordering="NONE"
     side="BOTH"
 
